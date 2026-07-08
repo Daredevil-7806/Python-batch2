@@ -1,0 +1,11 @@
+a=10
+b=True
+c=False
+d="10.6"
+e="RAM"
+a=float(a)
+b=float(b)
+c=float(c)
+d=float(d)
+print(a,b,c,d)
+print(type(a))

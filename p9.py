@@ -1,0 +1,9 @@
+a=10
+b=20.5
+c=True
+d=False
+a=str(a)
+b=str(b)
+c=str(c)
+d=str(d)
+print(type(a),type(b),type(c),type(d))

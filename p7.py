@@ -1,0 +1,14 @@
+x=10.544
+print(type(x))#float
+y=int(x)
+print(type(y))#int
+print(y)#10
+a="10"
+a=int(a)
+print(type(a))#int
+b=True
+b=int(b)#1
+c=False
+c=int(c)#0
+print(a)#10
+print(b)#1
