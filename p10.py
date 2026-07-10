@@ -7,3 +7,4 @@ print(bool(""))
 print(bool(" "))
 print(bool("Techpile"))
 print(bool("Rajan"))
+
